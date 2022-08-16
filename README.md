@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Lais Ximenes 👋
 
-- 🌱 Além da Faculdade, estou estudando em um bootcamp e em cursos livres na área de Front-End (HTML,CSS, JavaScript...)
+- 🌱 Além da Faculdade, estudo em bootcamps e em cursos livres na área de Front-End (HTML,CSS, JavaScript...)
 - 📫 Contate-me no e-mail: laissilvaximenes@gmail.com
 - 😄 Pronouns: ela/dela
 
