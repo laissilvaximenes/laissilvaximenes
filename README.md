@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Lais Ximenes 👋
 
-- 🌱 Além da Faculdade, estudo em bootcamps e em cursos livres na área de Front-End (HTML,CSS, JavaScript...)
+- 🌱 Sou estudante, faço faculdade de Análise e Desenvolvimento de Sistemas (2º Periodo) pela UNINASSAU e atualmente estou aprendendo Front-End através de Cursos Livres (Alura/DIO).
 - 📫 Contate-me no e-mail: laissilvaximenes@gmail.com
 - 😄 Pronouns: ela/dela
 
