@@ -1,8 +1,8 @@
-Olá! Meu nome é Lais e sou estudante de Ciência da Computação. Estou empolgada em compartilhar meus projetos e exercícios neste repositório do GitHub.
+Olá! Meu nome é Lais e sou Tecnóloga em Análise e Desenvolvimento de Sistemas. Estou empolgada em compartilhar meus projetos e exercícios neste repositório do GitHub.
 
 # Áreas de Interesse
 
-Atualmente, tenho focado meus estudos no desenvolvimento backend (Explorando entre Java, C#...), porém também tenho conhecimentos em frontend, utilizando tecnologias como HTML5, CSS e JavaScript. 
+Atualmente, tenho focado meus estudos no desenvolvimento Front End (Explorando JavaScript, React...), porém também tenho conhecimentos em Back End, utilizando tecnologias como Java e C#. 
 
 # Projetos
 
