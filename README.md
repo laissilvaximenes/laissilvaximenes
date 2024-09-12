@@ -1,16 +1,4 @@
-Olá! Meu nome é Lais e sou Tecnóloga em Análise e Desenvolvimento de Sistemas. Estou empolgada em compartilhar meus projetos e exercícios neste repositório do GitHub.
-
-# Áreas de Interesse
-
-Atualmente, tenho focado meus estudos no desenvolvimento Front End (Explorando JavaScript, React...), porém também tenho conhecimentos em Back End, utilizando tecnologias como Java e C#. 
-
-# Projetos
-
-Neste repositório, você encontrará alguns dos projetos que desenvolvi ao longo dos meus estudos. Cada projeto representa um desafio diferente e me permitiu aplicar os conceitos aprendidos. Estou animada para receber feedback e sugestões de melhorias para esses projetos.
-
-# Exercícios
-
-Além dos projetos, também compartilho aqui alguns exercícios que realizei durante meus cursos. Eles foram fundamentais para o meu aprendizado e me ajudaram a aprimorar minhas habilidades de resolução de problemas e programação.
+Formada em Análise e Desenvolvimento de Sistemas, com inglês avançado e experiência internacional em intercâmbio no Canadá. Atualmente cursando um Bootcamp de Engenharia de Dados com foco em Python e Power BI, desenvolvendo habilidades em processamento de dados, modelagem e visualização. Possuo conhecimento em metodologias ágeis (Scrum, Kanban, XP) e uma base em Java orientado a objetos. Busco oportunidades como Analista de Dados, onde possa aplicar minhas competências técnicas e colaborar com equipes dinâmicas para gerar insights valiosos a partir de dados.
 
 # Contato
 
